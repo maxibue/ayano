@@ -1,4 +1,4 @@
-module github.com/maximierung/ayano
+module github.com/maximatically/ayano
 
 go 1.22.0
 
